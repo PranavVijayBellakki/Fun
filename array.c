@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main()
 {
-	// The starting number is 500
+	// The starting number is 50
 }
