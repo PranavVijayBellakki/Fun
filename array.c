@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main()
 {
-	//array initilization
+	// The starting number is 10
 }
